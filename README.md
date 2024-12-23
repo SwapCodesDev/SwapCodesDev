@@ -22,29 +22,27 @@
 
 ### 🖥️ Programming Languages
 <div style="display: flex; align-items: center; gap: 15px;">
-  <!-- Python -->
-  <div style="display: flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
-    <span>Python</span>
-  </div>
-  <div style="border-left: 2px solid #808080; height: 40px;"></div>
-  <!-- C -->
-  <div style="display: flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="40" height="40" style="margin-right: 10px;"/>
-    <span>C</span>
-  </div>
-  <div style="border-left: 2px solid #808080; height: 40px;"></div>
-  <!-- C++ -->
-  <div style="display: flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
-    <span>C++</span>
-  </div>
-  <div style="border-left: 2px solid #808080; height: 40px;"></div>
-  <!-- Java -->
-  <div style="display: flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
-    <span>Java</span>
-  </div>
+
+<div style="display: inline-block; text-align: center; margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40">
+  <br>Python
+</div>
+
+<div style="display: inline-block; text-align: center; margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="40" height="40">
+  <br>C
+</div>
+
+<div style="display: inline-block; text-align: center; margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40">
+  <br>C++
+</div>
+
+<div style="display: inline-block; text-align: center;">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" width="40" height="40">
+  <br>Java
+</div>
+
 </div>
 
 ### 🌐 Web Development
