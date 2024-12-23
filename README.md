@@ -20,6 +20,8 @@
 
 ## 🛠️ Languages and Tools
 
+python<div style="border-left: 2px solid #808080; height: 30px;"></div>cpp
+
 ### 🖥️ Programming Languages
 <div style="display: flex; align-items: center; gap: 15px;">
   <!-- Python -->
