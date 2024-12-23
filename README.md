@@ -20,7 +20,7 @@
 
 ## 🛠️ Languages and Tools
 
-python<div style="border-left: 2px solid #808080; height: 30px;"></div>cpp
+python<hr style="border: none; border-left: 1px solid blue; height: 100px;">cpp
 
 ### 🖥️ Programming Languages
 <div style="display: flex; align-items: center; gap: 15px;">
