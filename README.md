@@ -1,7 +1,78 @@
 <h1 align="center">Hi 👋, I'm SwapCodesDev</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate developer exploring the world of technology</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SwapCodesDev?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/SwapCodesDev?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Developer-Passionate-blue" alt="Passionate Developer" />
+</p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Full-Stack Development & Machine Learning**  
+- 👯 I’m looking to collaborate on **Open Source Projects**  
+- 🤔 I’m interested in **Artificial Intelligence, Android Development, and Full-Stack Development**  
+- 📫 How to reach me: **swapcodes.dev@gmail.com**
+
+---
+
+## 🛠️ Languages and Tools
+
+### 🖥️ Programming Languages
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+</div>
+
+### 🌐 Web Development
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="JS" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/1927/1927746.png" alt="Web Development" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+</div>
+
+### 📱 App Development
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/128/11078/11078771.png" alt="App Development" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/226/226770.png" alt="Android Studio" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+</div>
+
+### 💾 Databases
+<div>
+  <img src="https://img.icons8.com/?size=48&id=bosfpvRzNOG8&format=png" alt="MongoDB" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://cdn-icons-png.flaticon.com/128/18405/18405529.png" alt="MySQL" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://img.icons8.com/?size=48&id=62452&format=png" alt="Firebase" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+</div>
+
+### ⚙️ Tools and Technologies
+<div>
+  <img src="https://img.icons8.com/?size=48&id=114322&format=png" alt="Artificial Intelligence" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://img.icons8.com/?size=48&id=xJmc7Ef6Ikes&format=png" alt="Machine Learning" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" alt="VS Code" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://img.icons8.com/?size=48&id=4djt356tq8UO&format=png" alt="NetBeans" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <img src="https://img.icons8.com/?size=48&id=117121&format=png" alt="PyCharm" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### [1. Markdown to HTML Converter](https://github.com/SwapCodesDev/)
+A python based module for converting markdown to html.
+
+### [2. Personal Assistant](https://github.com/SwapCodesDev/)
+A Python-based personal assistant for automating day-to-day tasks.
+
+---
+
+## 📫 Connect with Me
+<p>
+  <a href="https://github.com/SwapCodesDev" target="_blank"><img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/SwapCodesDev" target="_blank"><img src="https://img.icons8.com/fluent/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:swapcodes.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/gmail.png" alt="Gmail"/></a>
+</p>
