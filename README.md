@@ -20,20 +20,18 @@
 
 ## 🛠️ Languages and Tools
 
-python<div style="display: inline-block; width: 1px; height: 100px; background-color: red;"></div>cpp
-
 ### 🖥️ Programming Languages
 <div style="display: flex; align-items: center; gap: 15px;">
   <!-- Python -->
   <div style="display: flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="15" height="15" style="margin-right: 10px;"/>
-    <span>Python</span>
+    Python
   </div>
   <div style="border-left: 2px solid #808080; height: 15px;"></div>
   <!-- C -->
   <div style="display: flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="15" height="15" style="margin-right: 10px;"/>
-    <span>C</span>
+    C
   </div>
   <div style="border-left: 2px solid #808080; height: 15px;"></div>
   <!-- C++ -->
