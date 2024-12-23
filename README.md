@@ -21,29 +21,10 @@
 ## 🛠️ Languages and Tools
 
 ### 🖥️ Programming Languages
-<div style="display: flex; align-items: center; gap: 15px;">
-
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40">
-  <br>Python
-</div>
-
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
-  <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="40" height="40">
-  <br>C
-</div>
-
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
-  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40">
-  <br>C++
-</div>
-
-<div style="display: inline-block; text-align: center;">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" width="40" height="40">
-  <br>Java
-</div>
-
-</div>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40"></a> Python | 
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="40" height="40"></a> C | 
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40"></a> C++ | 
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" width="40" height="40"></a> Java
 
 ### 🌐 Web Development
 <div>
