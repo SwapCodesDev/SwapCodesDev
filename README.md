@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/SwapCodesDev?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/SwapCodesDev?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Developer-Passionate-blue" alt="Passionate Developer" />
+  <img src="https://img.shields.io/badge/Developer-SwapCodesDev-blue" alt="Passionate Developer" />
 </p>
 
 ---
