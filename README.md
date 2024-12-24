@@ -22,51 +22,55 @@
 
 ### 🖥️ Programming Languages
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <pre>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> Python    
+    <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> C    
+    <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> C++    
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> Java</pre>
 </div>
- 
 
 ### 🌐 Web Development
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="JS" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/1927/1927746.png" alt="Web Development" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <pre>
+    <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> HTML    
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> CSS    
+    <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="JS" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> JavaScript    
+    <img src="https://cdn-icons-png.flaticon.com/128/1927/1927746.png" alt="Web Development" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> Web Development</pre>
 </div>
 
 ### 📱 App Development
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/128/11078/11078771.png" alt="App Development" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/226/226770.png" alt="Android Studio" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <pre>
+    <img src="https://img.icons8.com/?size=48&id=17836&format=png" alt="App Development" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> App Development    
+    <img src="https://img.icons8.com/?size=48&id=EgOU93v1DHjU&format=png" alt="Android Studio" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> Android Studio</pre>
 </div>
 
 ### 💾 Databases
 <div>
-  <img src="https://img.icons8.com/?size=48&id=bosfpvRzNOG8&format=png" alt="MongoDB" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://cdn-icons-png.flaticon.com/128/18405/18405529.png" alt="MySQL" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://img.icons8.com/?size=48&id=62452&format=png" alt="Firebase" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <pre>
+    <img src="https://img.icons8.com/?size=48&id=bosfpvRzNOG8&format=png" alt="MongoDB" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> MongoDB    
+    <img src="https://cdn-icons-png.flaticon.com/128/18405/18405529.png" alt="MySQL" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> MySQL    
+    <img src="https://img.icons8.com/?size=48&id=62452&format=png" alt="Firebase" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> Firebase</pre>
 </div>
 
 ### ⚙️ Tools and Technologies
 <div>
-  <img src="https://img.icons8.com/?size=48&id=114322&format=png" alt="Artificial Intelligence" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://img.icons8.com/?size=48&id=xJmc7Ef6Ikes&format=png" alt="Machine Learning" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" alt="VS Code" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://img.icons8.com/?size=48&id=4djt356tq8UO&format=png" alt="NetBeans" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
-  <img src="https://img.icons8.com/?size=48&id=117121&format=png" alt="PyCharm" width="40" height="40" style="margin-right: 10px; display: inline-block;"/> 
+  <pre>
+    <img src="https://img.icons8.com/?size=48&id=114322&format=png" alt="Artificial Intelligence" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> Artificial Intelligence    
+    <img src="https://img.icons8.com/?size=48&id=xJmc7Ef6Ikes&format=png" alt="Machine Learning" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> Machine Learning    
+    <img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" alt="VS Code" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> VS Code    
+    <img src="https://img.icons8.com/?size=48&id=4djt356tq8UO&format=png" alt="NetBeans" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> NetBeans    
+    <img src="https://img.icons8.com/?size=48&id=117121&format=png" alt="PyCharm" width="15" height="15" style="margin-right: 10px; display: inline-block;"/> PyCharm</pre>
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-### [1. Markdown to HTML Converter](https://github.com/SwapCodesDev/)
+### [1. Markdown to HTML Converter](https://github.com/SwapCodesDev/Markdown-to-HTML)
 A python based module for converting markdown to html.
 
-### [2. Personal Assistant](https://github.com/SwapCodesDev/)
+### [2. Personal Assistant](https://github.com/SwapCodesDev/EVA)
 A Python-based personal assistant for automating day-to-day tasks.
 
 ---
