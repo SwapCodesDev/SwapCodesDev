@@ -67,10 +67,10 @@
 
 ## 🌟 Featured Projects
 
-### [1. Markdown to HTML Converter](https://github.com/SwapCodesDev/Markdown-to-HTML)
-A python based module for converting markdown to html.
+### [1. Farmingo: AI powered platform for farmers](https://github.com/SwapCodesDev/farmingo)
+A platform for farmers where AI insights and unique platforms are provided.
 
-### [2. Personal Assistant](https://github.com/SwapCodesDev/EVA)
+### [2. EVA: Personal Voice Assistant](https://github.com/SwapCodesDev/EVA)
 A Python-based personal assistant for automating day-to-day tasks.
 
 ---
